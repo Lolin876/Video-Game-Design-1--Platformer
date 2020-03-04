@@ -210,7 +210,7 @@
             "Key": "88b31e00-2adc-461f-8374-1fbbaeb4b772",
             "Value": {
                 "id": "e920f58e-8a0a-482f-b788-ac1f4b0862a8",
-                "resourcePath": "scripts\\animation\\animation.yy",
+                "resourcePath": "scripts\\anim\\anim.yy",
                 "resourceType": "GMScript"
             }
         },

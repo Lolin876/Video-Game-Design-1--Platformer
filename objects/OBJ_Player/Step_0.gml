@@ -36,6 +36,6 @@ script_execute(collision);
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
 /// @DnDHash : 32F4D69C
-/// @DnDArgument : "script" "animation"
+/// @DnDArgument : "script" "anim"
 /// @DnDSaveInfo : "script" "88b31e00-2adc-461f-8374-1fbbaeb4b772"
-script_execute(animation);
+script_execute(anim);
